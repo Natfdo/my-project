@@ -1,2 +1,5 @@
 # my-project
-Today is great!
+Things i did in my project repisotory:
+1.creating branches, 
+2.modifying files, 
+3.merging and push the changes to GitHub.
